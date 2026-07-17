@@ -1,0 +1,5 @@
+# Ignore large executables
+*.exe
+*.msi
+*.dmg
+*.pkg
